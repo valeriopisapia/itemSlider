@@ -6,7 +6,7 @@ https://itemsliderdl.firebaseapp.com
 ### Get started!
 ```
 git clone
-cd widgets
+cd itemSlider
 npm i
 ```
 

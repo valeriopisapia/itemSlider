@@ -1,5 +1,7 @@
 # Item Slider
 
+### Demo
+https://itemsliderdl.firebaseapp.com
 
 ### Get started!
 ```
